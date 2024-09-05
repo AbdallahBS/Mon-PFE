@@ -3,17 +3,8 @@
 ![alt text](https://i.postimg.cc/Dw5SdNyf/ZKEAuw-No-Xb-Vf-1024-500.png)
 
 
-A new Flutter project.
+Mon-PFE est une application qui aide les étudiants en Tunisie à trouver facilement leur projet de fin d'études (PFE) en connectant avec les entreprises locales qui recrutent des stagiaires.
 
-## Getting Started
+![alt text](https://i.postimg.cc/bNZPFFTN/v-P8-LUK3ys-YFs-1024-500.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
